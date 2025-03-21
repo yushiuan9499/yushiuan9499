@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a student from NCKU EE.
-I spend lots of time on competitive programming.
+I'm a student from NCKU EE.  
+I spend lots of time on competitive programming.  
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=yushiuan9499&show_icons=true&theme=neon&include_all_commits=true)   
