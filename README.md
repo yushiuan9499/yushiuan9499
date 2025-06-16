@@ -4,7 +4,7 @@ I spend lots of time on competitive programming.
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=yushiuan9499&show_icons=true&theme=neon&include_all_commits=true)   
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushiuan9499&layout=compact&theme=neon&size_weight=0.5&count_weight=0.5)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushiuan9499&layout=compact&theme=neon&size_weight=0.5&count_weight=0.5&exclude_repo=config-backup)
 
 <!--
 **yushiuan9499/yushiuan9499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
