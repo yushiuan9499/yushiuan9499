@@ -2,6 +2,10 @@
 I'm a student from NCKU EE.  
 I spend lots of time on competitive programming.  
 
+## Competitive Programming award
+- 2025 Asia Taiwan Online Programming Contest - rk.53 Silver Award
+- 2025 ICPC Taichung Regional - rk.51 Bronze Award
+
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=yushiuan9499&show_icons=true&theme=neon&include_all_commits=true)   
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushiuan9499&layout=compact&theme=neon&size_weight=0.5&count_weight=0.5&exclude_repo=config-backup)
