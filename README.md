@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a student from NCKU EE.  
-I spend lots of time on competitive programming.  
+I am a Competitive Programer.  
 
 ## Competitive Programming award
 - 2025 Asia Taiwan Online Programming Contest - rk.53 Silver Award
